@@ -1,5 +1,5 @@
 {
-  "greeting": "Chào em",
+  "greeting": "Chào em,",
   "name": "@Hiền",
   "greetingText": "",
   "wishText": "May the best always be with you! <3",
@@ -14,10 +14,10 @@
   "text5Entry": "Bởi vì,",
   "text5Content": "You are my Special",
   "smiley": ":)",
-  "bigTextPart1": "Vậy",
-  "bigTextPart2": "nên",
-  "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Chúc mừng sinh nhật!",
+  "outroText": "Em có thích cái này không?",
+  "replayText": "Click vào đây nếu em muốn xem lại nhé.",
   "outroSmiley": ":)"
 }
